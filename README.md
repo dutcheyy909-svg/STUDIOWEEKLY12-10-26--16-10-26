@@ -1,2 +1,131 @@
-# STUDIOWEEKLY12-10-26--16-10-26
-WEEKLY STUDIO LOG 
+# Weekly Studio Log: 12–16 October 2026
+
+## 12 October 2026 — Carry The Miles
+
+- **Genre:** Folk Singer-Songwriter
+- **Opportunity:** Music Gateway Submission
+- **DAW:** Logic Pro
+- **Session overview:** Today's session focused on developing the arrangement of Carry The Miles by adding additional instrumentation to strengthen the emotional impact, depth, and commercial appeal of the track for the Music Gateway folk singer-songwriter opportunity.
+- **Work completed:**
+  - Added new instrument layers to enhance the overall arrangement.
+  - Expanded the acoustic foundation to support the vocal narrative.
+  - Introduced complementary melodic elements to create movement and emotional progression.
+  - Worked on balancing instrument placement within the mix to maintain clarity and intimacy.
+  - Evaluated the arrangement against current folk singer-songwriter production standards.
+  - Focused on maintaining an authentic, organic sound suitable for sync licensing opportunities.
+  - Reviewed the track structure to ensure smooth transitions between sections.
+  - Strengthened the dynamic build throughout the song to improve listener engagement.
+- **Creative objectives:**
+  - Enhance the storytelling aspect of the production.
+  - Create a warm and natural sonic character.
+  - Increase production value while retaining a stripped-back, acoustic feel.
+  - Position the track competitively for Music Gateway review and potential sync placements.
+- **Progress status:**
+  - Additional instruments added
+  - Arrangement expanded
+  - Production quality improved
+  - Sync suitability assessed
+- **Next session tasks:**
+  - Continue refining instrument levels.
+  - Remove any remaining frequency clashes.
+  - Fine-tune automation and dynamics.
+  - Review vocal placement within the mix.
+  - Complete mix preparation for submission review.
+  - Export a reference mix for final evaluation.
+- **Session outcome:** Carry The Miles moved closer to completion with a fuller and more emotionally engaging arrangement.
+
+## 13 October 2026 — Carry The Miles
+
+- **Genre:** Folk Singer-Songwriter
+- **Opportunity:** Music Gateway Submission
+- **DAW:** Logic Pro
+- **Session overview:** Focused on refining newly added instruments, strengthening the arrangement, and maintaining authenticity while meeting professional sync and submission standards.
+- **Work completed:**
+  - Reviewed all instrument layers added during the previous session.
+  - Adjusted instrument levels to improve balance throughout the arrangement.
+  - Fine-tuned acoustic elements to maintain a natural and organic sound.
+  - Worked on creating additional depth and emotion within key sections of the song.
+  - Addressed frequency overlap between instruments to improve clarity.
+  - Evaluated the overall arrangement for pacing and listener engagement.
+  - Continued developing the track with a focus on Music Gateway submission readiness.
+  - Conducted several playback reviews to identify further mix improvements.
+- **Production focus:**
+  - Maintain an intimate folk singer-songwriter atmosphere.
+  - Support emotional storytelling with tasteful instrumentation.
+  - Enhance clarity and separation between acoustic elements.
+  - Ensure the production remains sync-friendly.
+- **Progress status:**
+  - Instrumentation reviewed and refined
+  - Arrangement development continued
+  - Frequency management improved
+  - Mix preparation progressing
+  - Submission quality assessment completed
+- **Next session tasks:**
+  - Complete detailed mix balancing.
+  - Refine automation throughout the arrangement.
+  - Finalise EQ adjustments on supporting instruments.
+  - Review vocal prominence and placement.
+  - Export updated reference mix.
+  - Prepare track for final mix approval and submission.
+- **Session outcome:** Carry The Miles continued to move towards completion with improved balance, clarity, and emotional impact.
+
+## 14 October 2026 — Out of Studio
+
+- **Status:** Out of Studio
+- **Session overview:** No studio work was completed today.
+- **Work completed:**
+  - No recording sessions.
+  - No mixing or mastering work.
+  - No arrangement development.
+  - No metadata updates.
+  - No sync licensing submissions.
+  - No catalogue administration.
+- **Progress status:** Rest day / Out of studio
+- **Active projects on hold:**
+  - Carry The Miles
+  - Garage Light
+  - Redline City promotion and playlist outreach
+  - Ongoing sync licensing submissions
+- **Next session priorities:**
+  - Resume work on Carry The Miles.
+  - Continue mix refinement and arrangement review.
+  - Assess submission readiness for Music Gateway opportunities.
+  - Review current sync licensing opportunities and deadlines.
+- **Session outcome:** No studio activity was undertaken on 14/10/2026.
+
+## 15 October 2026 — Carry The Miles
+
+- **Genre:** Folk Singer-Songwriter
+- **Opportunity:** Music Gateway Submission
+- **DAW:** Logic Pro
+- **Session overview:** Focused on mixing Carry The Miles to improve clarity, balance, and emotional impact.
+- **Work completed:**
+  - Continued mixing all instrument tracks.
+  - Adjusted volume balances across the arrangement.
+  - Applied EQ refinements to create better separation between instruments.
+  - Worked on reducing frequency masking and low-mid congestion.
+  - Fine-tuned panning to improve stereo width and instrument placement.
+  - Reviewed dynamic control using compression where required.
+  - Refined reverb and ambience settings.
+  - Conducted multiple playback checks.
+  - Assessed the track against reference productions.
+- **Mixing objectives:**
+  - Maintain warmth and intimacy throughout the song.
+  - Ensure the vocal remains the primary focus.
+  - Improve clarity between acoustic instruments.
+  - Enhance emotional dynamics without over-processing.
+  - Create a professional mix suitable for submission and sync licensing.
+- **Progress status:**
+  - Mix session completed
+  - Instrument balance improved
+  - EQ adjustments refined
+  - Stereo image enhanced
+  - Mix moving towards final review stage
+- **Next session tasks:**
+  - Review the mix with fresh ears.
+  - Make final mix revisions.
+  - Check translation across multiple listening systems.
+  - Export a pre-master version.
+  - Complete submission-ready documentation.
+  - Prepare final package for Music Gateway submission.
+- **Session outcome:** Carry The Miles progressed significantly and is closer to a finished, submission-ready state.
